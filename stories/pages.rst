@@ -8,15 +8,20 @@
 .. type: text
 
 
+.. contents:: Table of Contents
+.. section-numbering::
+
+
 FAQs
 ----
 
 I pushlish FAQ on typical questions I encounter w.r.t to my coding projects:
 
 .. post-list::
-   :categories: website
+   :tags: faq
 
-Tags
+
+Some hints on this website:
 
 .. post-list::
-   :tags: faq
+   :categories: website
