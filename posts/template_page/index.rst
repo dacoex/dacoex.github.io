@@ -1,7 +1,7 @@
 .. title: Template Page
 .. slug: template_page
 .. date: 2016-03-03 20:19:08 UTC+01:00
-.. tags: 
+.. tags: faq
 .. category: 
 .. link: 
 .. description: 

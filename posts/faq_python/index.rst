@@ -13,12 +13,6 @@
 .. section-numbering::
 
 
-Compilation of faq items.
-
-
-.. TEASER_END
-
-
 Learning from Community
 ------------------------
 
@@ -71,4 +65,8 @@ Datetime
 matplotlib
 =========================
     
-:doc:`faq_python_mpl`
+* `api example code: span_regions.py <http://matplotlib.org/examples/api/span_regions.html?highlight=facecolor%20axhline>`_
+    * Illustrate some helper functions for shading regions where a logical mask is True
+* get axis limits
+    * http://stackoverflow.com/a/3681015 from `set axis limits in matplotlib pyplot <http://stackoverflow.com/questions/3645787/set-axis-limits-in-matplotlib-pyplot>`_
+    * ylim( ax1.get_ylim() )  

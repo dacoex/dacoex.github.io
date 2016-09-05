@@ -1,6 +1,6 @@
 .. title: Note taking across multiple devices
 .. slug: note-taking
-.. date: 2016-09-05 11:00:45 UTC+01:00
+.. date: 2016-09-03 11:00:45 UTC+01:00
 .. tags: draft
 .. category: 
 .. link: 
