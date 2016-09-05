@@ -7,15 +7,15 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://0.0.0.0:8000/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/2015/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/2016/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/archive.html</loc>
@@ -23,162 +23,158 @@
  </url>
  <url>
   <loc>http://0.0.0.0:8000/categories/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/categories/blog/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/categories/cat_coding-python-knowledge-base/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/categories/cat_knowledge-base/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/categories/cat_website/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/categories/code/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/categories/coding/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/categories/crack/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/categories/faq/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/categories/lessons-learned/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/categories/linux/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/categories/linuxmint/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/categories/matplotlib/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/categories/myself/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/categories/nikola/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/categories/profile/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/categories/python/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/categories/security/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/categories/snippets/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/categories/stackoverflow/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/categories/start/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/categories/templates/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/categories/ubuntu/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/categories/website/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/posts/atom/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/posts/faq_python/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/posts/faq_python_mpl/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/posts/faq_python_pandas/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/posts/linuxmint-hack/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/posts/start/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/projects/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/projects/pvlib/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/stories/about/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/stories/faq_python/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
- </url>
- <url>
-  <loc>http://0.0.0.0:8000/stories/modern_note-taking/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/stories/pages/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/stories/projects/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/stories/projectspvlib/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/stories/template_page/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://0.0.0.0:8000/stories/todo/</loc>
-  <lastmod>2016-09-05T20:48:00Z</lastmod>
+  <lastmod>2016-09-05T22:12:00Z</lastmod>
  </url>
 </urlset>
