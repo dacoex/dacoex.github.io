@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>DaCoEx to the World (code)</title><link>http://dacoex.github.io/</link><description></description><atom:link href="http://0.0.0.0:8000/categories/code.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Mon, 05 Sep 2016 22:18:40 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Q&amp;A: Python / matplotlib</title><link>http://0.0.0.0:8000/posts/faq_python_mpl/</link><dc:creator>DaCoEx</dc:creator><description>&lt;div&gt;&lt;div class="section" id="axis"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>DaCoEx to the World (code)</title><link>https://dacoex.github.io/</link><description></description><atom:link type="application/rss+xml" rel="self" href="https://dacoex.github.io/categories/code.xml"></atom:link><language>en</language><lastBuildDate>Mon, 05 Sep 2016 22:22:40 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Q&amp;A: Python / matplotlib</title><link>https://dacoex.github.io/posts/faq_python_mpl/</link><dc:creator>DaCoEx</dc:creator><description>&lt;div&gt;&lt;div class="section" id="axis"&gt;
 &lt;h2&gt;Axis&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;dl class="first docutils"&gt;
@@ -137,15 +137,15 @@ xax.set_tick_params(which='major', pad=15)
 &lt;/dl&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>code</category><category>coding</category><category>faq</category><category>lessons-learned</category><category>matplotlib</category><category>python</category><category>snippets</category><category>stackoverflow</category><category>templates</category><guid>http://0.0.0.0:8000/posts/faq_python_mpl/</guid><pubDate>Fri, 04 Mar 2016 19:19:08 GMT</pubDate></item><item><title>Q&amp;A: Python</title><link>http://0.0.0.0:8000/posts/faq_python/</link><dc:creator>DaCoEx</dc:creator><description>&lt;div&gt;&lt;div class="contents topic" id="table-of-contents"&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>code</category><category>coding</category><category>faq</category><category>lessons-learned</category><category>matplotlib</category><category>python</category><category>snippets</category><category>stackoverflow</category><category>templates</category><guid>https://dacoex.github.io/posts/faq_python_mpl/</guid><pubDate>Fri, 04 Mar 2016 19:19:08 GMT</pubDate></item><item><title>Q&amp;A: Python</title><link>https://dacoex.github.io/posts/faq_python/</link><dc:creator>DaCoEx</dc:creator><description>&lt;div&gt;&lt;div class="contents topic" id="table-of-contents"&gt;
 &lt;p class="topic-title first"&gt;Table of Contents&lt;/p&gt;
 &lt;ul class="auto-toc simple"&gt;
-&lt;li&gt;&lt;a class="reference internal" href="http://0.0.0.0:8000/posts/faq_python/#learning-from-community" id="id1"&gt;1   Learning from Community&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference internal" href="http://0.0.0.0:8000/posts/faq_python/#datetime" id="id2"&gt;2   Datetime&lt;/a&gt;&lt;ul class="auto-toc"&gt;
-&lt;li&gt;&lt;a class="reference internal" href="http://0.0.0.0:8000/posts/faq_python/#matplotlib" id="id3"&gt;2.1   matplotlib&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference internal" href="https://dacoex.github.io/posts/faq_python/#learning-from-community" id="id1"&gt;1   Learning from Community&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference internal" href="https://dacoex.github.io/posts/faq_python/#datetime" id="id2"&gt;2   Datetime&lt;/a&gt;&lt;ul class="auto-toc"&gt;
+&lt;li&gt;&lt;a class="reference internal" href="https://dacoex.github.io/posts/faq_python/#matplotlib" id="id3"&gt;2.1   matplotlib&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;p&gt;Compilation of faq items.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://0.0.0.0:8000/posts/faq_python/"&gt;Read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>code</category><category>faq</category><category>python</category><category>snippets</category><category>stackoverflow</category><category>templates</category><guid>http://0.0.0.0:8000/posts/faq_python/</guid><pubDate>Thu, 03 Mar 2016 19:19:08 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;a href="https://dacoex.github.io/posts/faq_python/"&gt;Read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>code</category><category>faq</category><category>python</category><category>snippets</category><category>stackoverflow</category><category>templates</category><guid>https://dacoex.github.io/posts/faq_python/</guid><pubDate>Thu, 03 Mar 2016 19:19:08 GMT</pubDate></item></channel></rss>

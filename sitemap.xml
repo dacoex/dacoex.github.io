@@ -6,175 +6,175 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://0.0.0.0:8000/</loc>
+  <loc>https://dacoex.github.io/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/2015/</loc>
+  <loc>https://dacoex.github.io/2015/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/2016/</loc>
+  <loc>https://dacoex.github.io/2016/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/archive.html</loc>
+  <loc>https://dacoex.github.io/archive.html</loc>
+  <lastmod>2016-09-05T22:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://dacoex.github.io/categories/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/categories/</loc>
+  <loc>https://dacoex.github.io/categories/blog/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/categories/blog/</loc>
+  <loc>https://dacoex.github.io/categories/cat_coding-python-knowledge-base/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/categories/cat_coding-python-knowledge-base/</loc>
+  <loc>https://dacoex.github.io/categories/cat_knowledge-base/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/categories/cat_knowledge-base/</loc>
+  <loc>https://dacoex.github.io/categories/cat_website/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/categories/cat_website/</loc>
+  <loc>https://dacoex.github.io/categories/code/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/categories/code/</loc>
+  <loc>https://dacoex.github.io/categories/coding/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/categories/coding/</loc>
+  <loc>https://dacoex.github.io/categories/crack/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/categories/crack/</loc>
+  <loc>https://dacoex.github.io/categories/faq/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/categories/faq/</loc>
+  <loc>https://dacoex.github.io/categories/lessons-learned/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/categories/lessons-learned/</loc>
+  <loc>https://dacoex.github.io/categories/linux/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/categories/linux/</loc>
+  <loc>https://dacoex.github.io/categories/linuxmint/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/categories/linuxmint/</loc>
+  <loc>https://dacoex.github.io/categories/matplotlib/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/categories/matplotlib/</loc>
+  <loc>https://dacoex.github.io/categories/myself/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/categories/myself/</loc>
+  <loc>https://dacoex.github.io/categories/nikola/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/categories/nikola/</loc>
+  <loc>https://dacoex.github.io/categories/profile/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/categories/profile/</loc>
+  <loc>https://dacoex.github.io/categories/python/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/categories/python/</loc>
+  <loc>https://dacoex.github.io/categories/security/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/categories/security/</loc>
+  <loc>https://dacoex.github.io/categories/snippets/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/categories/snippets/</loc>
+  <loc>https://dacoex.github.io/categories/stackoverflow/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/categories/stackoverflow/</loc>
+  <loc>https://dacoex.github.io/categories/start/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/categories/start/</loc>
+  <loc>https://dacoex.github.io/categories/templates/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/categories/templates/</loc>
+  <loc>https://dacoex.github.io/categories/ubuntu/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/categories/ubuntu/</loc>
+  <loc>https://dacoex.github.io/categories/website/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/categories/website/</loc>
+  <loc>https://dacoex.github.io/posts/atom/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/posts/atom/</loc>
+  <loc>https://dacoex.github.io/posts/faq_python/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/posts/faq_python/</loc>
+  <loc>https://dacoex.github.io/posts/faq_python_mpl/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/posts/faq_python_mpl/</loc>
+  <loc>https://dacoex.github.io/posts/faq_python_pandas/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/posts/faq_python_pandas/</loc>
+  <loc>https://dacoex.github.io/posts/linuxmint-hack/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/posts/linuxmint-hack/</loc>
+  <loc>https://dacoex.github.io/posts/start/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/posts/start/</loc>
+  <loc>https://dacoex.github.io/projects/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/projects/</loc>
+  <loc>https://dacoex.github.io/projects/pvlib/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/projects/pvlib/</loc>
+  <loc>https://dacoex.github.io/stories/about/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/stories/about/</loc>
+  <loc>https://dacoex.github.io/stories/faq_python/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/stories/faq_python/</loc>
+  <loc>https://dacoex.github.io/stories/pages/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/stories/pages/</loc>
+  <loc>https://dacoex.github.io/stories/projects/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/stories/projects/</loc>
+  <loc>https://dacoex.github.io/stories/projectspvlib/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/stories/projectspvlib/</loc>
+  <loc>https://dacoex.github.io/stories/template_page/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
  <url>
-  <loc>http://0.0.0.0:8000/stories/template_page/</loc>
-  <lastmod>2016-09-05T22:18:00Z</lastmod>
- </url>
- <url>
-  <loc>http://0.0.0.0:8000/stories/todo/</loc>
+  <loc>https://dacoex.github.io/stories/todo/</loc>
   <lastmod>2016-09-05T22:18:00Z</lastmod>
  </url>
 </urlset>

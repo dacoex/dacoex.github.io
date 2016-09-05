@@ -1,4 +1,4 @@
-Sitemap: http://0.0.0.0:8000/sitemapindex.xml
+Sitemap: https://dacoex.github.io/sitemapindex.xml
 
 User-Agent: *
-Host: 0.0.0.0:8000
+Host: dacoex.github.io
