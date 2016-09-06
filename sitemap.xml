@@ -19,11 +19,11 @@
  </url>
  <url>
   <loc>https://dacoex.github.io/archive.html</loc>
-  <lastmod>2016-09-05T23:53:00Z</lastmod>
+  <lastmod>2016-09-06T00:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://dacoex.github.io/categories/</loc>
-  <lastmod>2016-09-05T22:55:00Z</lastmod>
+  <lastmod>2016-09-06T00:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://dacoex.github.io/categories/blog/</loc>
@@ -34,12 +34,20 @@
   <lastmod>2016-09-05T22:55:00Z</lastmod>
  </url>
  <url>
+  <loc>https://dacoex.github.io/categories/cat_knowledge-base/</loc>
+  <lastmod>2016-09-06T00:10:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://dacoex.github.io/categories/cat_website/</loc>
   <lastmod>2016-09-05T22:54:00Z</lastmod>
  </url>
  <url>
   <loc>https://dacoex.github.io/categories/code/</loc>
   <lastmod>2016-09-05T22:55:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://dacoex.github.io/categories/coding/</loc>
+  <lastmod>2016-09-06T00:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://dacoex.github.io/categories/crack/</loc>
@@ -50,12 +58,20 @@
   <lastmod>2016-09-05T22:55:00Z</lastmod>
  </url>
  <url>
+  <loc>https://dacoex.github.io/categories/lessons-learned/</loc>
+  <lastmod>2016-09-06T00:10:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://dacoex.github.io/categories/linux/</loc>
   <lastmod>2016-09-05T22:54:00Z</lastmod>
  </url>
  <url>
   <loc>https://dacoex.github.io/categories/linuxmint/</loc>
   <lastmod>2016-09-05T22:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://dacoex.github.io/categories/matplotlib/</loc>
+  <lastmod>2016-09-06T00:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://dacoex.github.io/categories/myself/</loc>
@@ -108,6 +124,14 @@
  <url>
   <loc>https://dacoex.github.io/posts/faq_python/</loc>
   <lastmod>2016-09-05T22:55:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://dacoex.github.io/posts/faq_python_mpl/</loc>
+  <lastmod>2016-09-06T00:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://dacoex.github.io/posts/faq_python_pandas/</loc>
+  <lastmod>2016-09-06T00:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://dacoex.github.io/posts/linuxmint-hack/</loc>

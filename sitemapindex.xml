@@ -14,12 +14,20 @@
   <lastmod>2016-09-05T23:53:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://dacoex.github.io/categories/cat_knowledge-base.xml</loc>
+  <lastmod>2016-09-06T00:10:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://dacoex.github.io/categories/cat_website.xml</loc>
   <lastmod>2016-09-05T23:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://dacoex.github.io/categories/code.xml</loc>
-  <lastmod>2016-09-05T23:53:00Z</lastmod>
+  <lastmod>2016-09-06T00:10:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://dacoex.github.io/categories/coding.xml</loc>
+  <lastmod>2016-09-06T00:10:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://dacoex.github.io/categories/crack.xml</loc>
@@ -27,7 +35,11 @@
  </sitemap>
  <sitemap>
   <loc>https://dacoex.github.io/categories/faq.xml</loc>
-  <lastmod>2016-09-05T23:53:00Z</lastmod>
+  <lastmod>2016-09-06T00:10:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://dacoex.github.io/categories/lessons-learned.xml</loc>
+  <lastmod>2016-09-06T00:10:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://dacoex.github.io/categories/linux.xml</loc>
@@ -36,6 +48,10 @@
  <sitemap>
   <loc>https://dacoex.github.io/categories/linuxmint.xml</loc>
   <lastmod>2016-09-05T23:53:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://dacoex.github.io/categories/matplotlib.xml</loc>
+  <lastmod>2016-09-06T00:10:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://dacoex.github.io/categories/myself.xml</loc>
@@ -51,7 +67,7 @@
  </sitemap>
  <sitemap>
   <loc>https://dacoex.github.io/categories/python.xml</loc>
-  <lastmod>2016-09-05T23:53:00Z</lastmod>
+  <lastmod>2016-09-06T00:10:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://dacoex.github.io/categories/security.xml</loc>
@@ -59,11 +75,11 @@
  </sitemap>
  <sitemap>
   <loc>https://dacoex.github.io/categories/snippets.xml</loc>
-  <lastmod>2016-09-05T23:53:00Z</lastmod>
+  <lastmod>2016-09-06T00:10:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://dacoex.github.io/categories/stackoverflow.xml</loc>
-  <lastmod>2016-09-05T23:53:00Z</lastmod>
+  <lastmod>2016-09-06T00:10:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://dacoex.github.io/categories/start.xml</loc>
@@ -71,7 +87,7 @@
  </sitemap>
  <sitemap>
   <loc>https://dacoex.github.io/categories/templates.xml</loc>
-  <lastmod>2016-09-05T23:53:00Z</lastmod>
+  <lastmod>2016-09-06T00:10:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://dacoex.github.io/categories/ubuntu.xml</loc>
@@ -83,10 +99,10 @@
  </sitemap>
  <sitemap>
   <loc>https://dacoex.github.io/rss.xml</loc>
-  <lastmod>2016-09-05T23:53:00Z</lastmod>
+  <lastmod>2016-09-06T00:10:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://dacoex.github.io/sitemap.xml</loc>
-  <lastmod>2016-09-05T23:53:00Z</lastmod>
+  <lastmod>2016-09-06T00:10:00Z</lastmod>
  </sitemap>
 </sitemapindex>
