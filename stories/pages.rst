@@ -21,6 +21,9 @@ I pushlish FAQ on typical questions I encounter w.r.t to my coding projects:
    :tags: faq
 
 
+What is this page about?
+----------------------------
+
 Some hints on this website:
 
 .. post-list::
