@@ -1,7 +1,7 @@
 .. title: atom spys on default
 .. slug: atom
 .. date: 2016-01-30 11:00:45 UTC+01:00
-.. tags: 
+.. tags: software, security, privacy
 .. category: 
 .. link: 
 .. description: 
